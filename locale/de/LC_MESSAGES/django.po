@@ -1,0 +1,135 @@
+# Translation of ISO 639-5 (language families and groups) to German
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright ©
+# Tobias Quathamer <toddy@debian.org>, 2014.
+# Mario Blättermann <mario.blaettermann@gmail.com>, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-5\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2014-04-08 23:05+0100\n"
+"Last-Translator: Mario Blättermann <mario.blaettermann@gmail.com>\n"
+"Language-Team: German <translation-team-de@lists.sourceforge.net>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+
+msgid "ISO_639-5.AAV"
+msgstr "Austro-Asiatische Sprachen"
+
+msgid "ISO_639-5.AFA"
+msgstr "Afro-Asiatische Sprachen"
+
+msgid "ISO_639-5.ART"
+msgstr "Künstliche Sprachen"
+
+msgid "ISO_639-5.AUS"
+msgstr "Australische Sprachen"
+
+msgid "ISO_639-5.BAT"
+msgstr "Baltische Sprachen"
+
+msgid "ISO_639-5.CAI"
+msgstr "Zentralamerikanische Indianische Sprachen"
+
+msgid "ISO_639-5.CAU"
+msgstr "Kaukasische Sprachen"
+
+msgid "ISO_639-5.CEL"
+msgstr "Keltische Sprachen"
+
+msgid "ISO_639-5.CRP"
+msgstr "Kreolische und Pidgin-Sprachen"
+
+msgid "ISO_639-5.CSU"
+msgstr "Zentralsudanesische Sprachen"
+
+msgid "ISO_639-5.DAY"
+msgstr "Dayak-Sprachen"
+
+msgid "ISO_639-5.DRA"
+msgstr "Dravidische Sprachen"
+
+msgid "ISO_639-5.ESX"
+msgstr "Eskimo-Aleutische Sprachen"
+
+msgid "ISO_639-5.EUQ"
+msgstr "Baskisch (gesamt)"
+
+msgid "ISO_639-5.GEM"
+msgstr "Germanische Sprachen"
+
+msgid "ISO_639-5.HMX"
+msgstr "Hmong-Mien-Sprachen"
+
+msgid "ISO_639-5.INE"
+msgstr "Indoeuropäische Sprachen"
+
+msgid "ISO_639-5.IRA"
+msgstr "Iranische Sprachen"
+
+msgid "ISO_639-5.JPX"
+msgstr "Japanisch (gesamt)"
+
+msgid "ISO_639-5.KHI"
+msgstr "Khoisan-Sprachen"
+
+msgid "ISO_639-5.MAP"
+msgstr "Austronesische Sprachen"
+
+msgid "ISO_639-5.NAI"
+msgstr "Indianersprachen (Nordamerika)"
+
+msgid "ISO_639-5.NIC"
+msgstr "Nigerkordofanische Sprachen"
+
+msgid "ISO_639-5.NUB"
+msgstr "Nubische Sprachen"
+
+msgid "ISO_639-5.PAA"
+msgstr "Papua-Sprachen"
+
+msgid "ISO_639-5.PHI"
+msgstr "Philippinische Sprachen"
+
+msgid "ISO_639-5.ROA"
+msgstr "Romanische Sprachen"
+
+msgid "ISO_639-5.SAI"
+msgstr "Indianersprachen (Südamerika)"
+
+msgid "ISO_639-5.SDV"
+msgstr "Ostsudanesische Sprachen"
+
+msgid "ISO_639-5.SGN"
+msgstr "Zeichensprachen"
+
+msgid "ISO_639-5.SIT"
+msgstr "Sino-tibetische Sprachen"
+
+msgid "ISO_639-5.SLA"
+msgstr "Slawische Sprachen"
+
+msgid "ISO_639-5.SSA"
+msgstr "Nilosaharanische Sprachen"
+
+msgid "ISO_639-5.TAI"
+msgstr "Tai-Sprachen"
+
+msgid "ISO_639-5.TRK"
+msgstr "Türkische Sprachen"
+
+msgid "ISO_639-5.TUT"
+msgstr "Altaische Sprachen"
+
+msgid "ISO_639-5.URJ"
+msgstr "Uralische Sprachen"
+
+msgid "ISO_639-5.XGN"
+msgstr "Mongolische Sprachen"

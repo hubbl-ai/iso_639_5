@@ -1,0 +1,153 @@
+# Translation of ISO 639_5 to Serbian.
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright ©
+# Miroslav Nikolić <miroslavnikolic@rocketmail.com>, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-5\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2014-04-16 20:00+0200\n"
+"Last-Translator: Miroslav Nikolić <miroslavnikolic@rocketmail.com>\n"
+"Language-Team: Serbian <(nothing)>\n"
+"Language: sr@latin\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "ISO_639-5.AAV"
+msgstr "austro-azijski jezici"
+
+msgid "ISO_639-5.AFA"
+msgstr "afro-azijski jezici"
+
+msgid "ISO_639-5.ART"
+msgstr "veštački jezici"
+
+msgid "ISO_639-5.AUS"
+msgstr "australijski jezici"
+
+msgid "ISO_639-5.BAT"
+msgstr "baltički jezici"
+
+msgid "ISO_639-5.CAI"
+msgstr "centralnoamerički indijanski jezici"
+
+msgid "ISO_639-5.CAU"
+msgstr "kavkaski jezici"
+
+msgid "ISO_639-5.CEL"
+msgstr "keltski jezici"
+
+msgid "ISO_639-5.CMC"
+msgstr "čamski jezici"
+
+msgid "ISO_639-5.CRP"
+msgstr "kreolski i pidžinski"
+
+msgid "ISO_639-5.CSU"
+msgstr "središnje-sudanski jezici"
+
+msgid "ISO_639-5.DAY"
+msgstr "land-dajski jezici"
+
+msgid "ISO_639-5.DRA"
+msgstr "dravidski jezici"
+
+msgid "ISO_639-5.ESX"
+msgstr "eskimsko-aleutski jezici"
+
+msgid "ISO_639-5.EUQ"
+msgstr "baskijski (porodica)"
+
+msgid "ISO_639-5.GEM"
+msgstr "germanski jezici"
+
+msgid "ISO_639-5.HMX"
+msgstr "hmong-mjenski jezici"
+
+msgid "ISO_639-5.IIR"
+msgstr "indo-iranski jezici"
+
+msgid "ISO_639-5.INE"
+msgstr "indo-evropski jezici"
+
+msgid "ISO_639-5.IRA"
+msgstr "iranski jezici"
+
+msgid "ISO_639-5.JPX"
+msgstr "japanski (porodica)"
+
+msgid "ISO_639-5.KAR"
+msgstr "karenski jezici"
+
+msgid "ISO_639-5.KHI"
+msgstr "koisanski jezici"
+
+msgid "ISO_639-5.MAP"
+msgstr "austronežanski jezici"
+
+msgid "ISO_639-5.MNO"
+msgstr "manobski jezici"
+
+msgid "ISO_639-5.NAI"
+msgstr "severnoamerički indijanski jezici"
+
+msgid "ISO_639-5.NIC"
+msgstr "niger-kordofanski jezici"
+
+msgid "ISO_639-5.NUB"
+msgstr "nubijski jezici"
+
+msgid "ISO_639-5.PAA"
+msgstr "papuanski jezici"
+
+msgid "ISO_639-5.PHI"
+msgstr "filipinski jezici"
+
+msgid "ISO_639-5.ROA"
+msgstr "ciganski jezici"
+
+msgid "ISO_639-5.SAI"
+msgstr "južnoamerički indijanski jezici"
+
+msgid "ISO_639-5.SDV"
+msgstr "istočno-sudanski jezici"
+
+msgid "ISO_639-5.SGN"
+msgstr "znakovni jezici"
+
+msgid "ISO_639-5.SIT"
+msgstr "sino-tibetski jezici"
+
+msgid "ISO_639-5.SLA"
+msgstr "slovenski jezici"
+
+msgid "ISO_639-5.SSA"
+msgstr "nilsko-saharski jezici"
+
+msgid "ISO_639-5.SYD"
+msgstr "samojedički jezici"
+
+msgid "ISO_639-5.TAI"
+msgstr "tajlandski jezici"
+
+msgid "ISO_639-5.TBQ"
+msgstr "tibetsko-burmanski jezici"
+
+msgid "ISO_639-5.TRK"
+msgstr "turkiški jezici"
+
+msgid "ISO_639-5.TUT"
+msgstr "altaški jezici"
+
+msgid "ISO_639-5.URJ"
+msgstr "uralski jezici"
+
+msgid "ISO_639-5.XGN"
+msgstr "mongolski jezici"

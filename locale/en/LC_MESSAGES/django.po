@@ -1,0 +1,366 @@
+# Translation of ISO 639-5 to LANGUAGE
+# Codes for the representation of names of languages
+# Part 5: Alpha-3 code for language families and groups
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright ©
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-5\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_639-5.AAV"
+msgstr "Austro-Asiatic languages"
+
+msgid "ISO_639-5.AFA"
+msgstr "Afro-Asiatic languages"
+
+msgid "ISO_639-5.ALG"
+msgstr "Algonquian languages"
+
+msgid "ISO_639-5.ALV"
+msgstr "Atlantic-Congo languages"
+
+msgid "ISO_639-5.APA"
+msgstr "Apache languages"
+
+msgid "ISO_639-5.AQA"
+msgstr "Alacalufan languages"
+
+msgid "ISO_639-5.AQL"
+msgstr "Algic languages"
+
+msgid "ISO_639-5.ART"
+msgstr "Artificial languages"
+
+msgid "ISO_639-5.ATH"
+msgstr "Athapascan languages"
+
+msgid "ISO_639-5.AUF"
+msgstr "Arauan languages"
+
+msgid "ISO_639-5.AUS"
+msgstr "Australian languages"
+
+msgid "ISO_639-5.AWD"
+msgstr "Arawakan languages"
+
+msgid "ISO_639-5.AZC"
+msgstr "Uto-Aztecan languages"
+
+msgid "ISO_639-5.BAD"
+msgstr "Banda languages"
+
+msgid "ISO_639-5.BAI"
+msgstr "Bamileke languages"
+
+msgid "ISO_639-5.BAT"
+msgstr "Baltic languages"
+
+msgid "ISO_639-5.BER"
+msgstr "Berber languages"
+
+msgid "ISO_639-5.BIH"
+msgstr "Bihari languages"
+
+msgid "ISO_639-5.BNT"
+msgstr "Bantu languages"
+
+msgid "ISO_639-5.BTK"
+msgstr "Batak languages"
+
+msgid "ISO_639-5.CAI"
+msgstr "Central American Indian languages"
+
+msgid "ISO_639-5.CAU"
+msgstr "Caucasian languages"
+
+msgid "ISO_639-5.CBA"
+msgstr "Chibchan languages"
+
+msgid "ISO_639-5.CCN"
+msgstr "North Caucasian languages"
+
+msgid "ISO_639-5.CCS"
+msgstr "South Caucasian languages"
+
+msgid "ISO_639-5.CDC"
+msgstr "Chadic languages"
+
+msgid "ISO_639-5.CDD"
+msgstr "Caddoan languages"
+
+msgid "ISO_639-5.CEL"
+msgstr "Celtic languages"
+
+msgid "ISO_639-5.CMC"
+msgstr "Chamic languages"
+
+msgid "ISO_639-5.CPE"
+msgstr "Creoles and pidgins, English‑based"
+
+msgid "ISO_639-5.CPF"
+msgstr "Creoles and pidgins, French‑based"
+
+msgid "ISO_639-5.CPP"
+msgstr "Creoles and pidgins, Portuguese-based"
+
+msgid "ISO_639-5.CRP"
+msgstr "Creoles and pidgins"
+
+msgid "ISO_639-5.CSU"
+msgstr "Central Sudanic languages"
+
+msgid "ISO_639-5.CUS"
+msgstr "Cushitic languages"
+
+msgid "ISO_639-5.DAY"
+msgstr "Land Dayak languages"
+
+msgid "ISO_639-5.DMN"
+msgstr "Mande languages"
+
+msgid "ISO_639-5.DRA"
+msgstr "Dravidian languages"
+
+msgid "ISO_639-5.EGX"
+msgstr "Egyptian languages"
+
+msgid "ISO_639-5.ESX"
+msgstr "Eskimo-Aleut languages"
+
+msgid "ISO_639-5.EUQ"
+msgstr "Basque (family)"
+
+msgid "ISO_639-5.FIU"
+msgstr "Finno-Ugrian languages"
+
+msgid "ISO_639-5.FOX"
+msgstr "Formosan languages"
+
+msgid "ISO_639-5.GEM"
+msgstr "Germanic languages"
+
+msgid "ISO_639-5.GME"
+msgstr "East Germanic languages"
+
+msgid "ISO_639-5.GMQ"
+msgstr "North Germanic languages"
+
+msgid "ISO_639-5.GMW"
+msgstr "West Germanic languages"
+
+msgid "ISO_639-5.GRK"
+msgstr "Greek languages"
+
+msgid "ISO_639-5.HMX"
+msgstr "Hmong-Mien languages"
+
+msgid "ISO_639-5.HOK"
+msgstr "Hokan languages"
+
+msgid "ISO_639-5.HYX"
+msgstr "Armenian (family)"
+
+msgid "ISO_639-5.IIR"
+msgstr "Indo-Iranian languages"
+
+msgid "ISO_639-5.IJO"
+msgstr "Ijo languages"
+
+msgid "ISO_639-5.INC"
+msgstr "Indic languages"
+
+msgid "ISO_639-5.INE"
+msgstr "Indo-European languages"
+
+msgid "ISO_639-5.IRA"
+msgstr "Iranian languages"
+
+msgid "ISO_639-5.IRO"
+msgstr "Iroquoian languages"
+
+msgid "ISO_639-5.ITC"
+msgstr "Italic languages"
+
+msgid "ISO_639-5.JPX"
+msgstr "Japanese (family)"
+
+msgid "ISO_639-5.KAR"
+msgstr "Karen languages"
+
+msgid "ISO_639-5.KDO"
+msgstr "Kordofanian languages"
+
+msgid "ISO_639-5.KHI"
+msgstr "Khoisan languages"
+
+msgid "ISO_639-5.KRO"
+msgstr "Kru languages"
+
+msgid "ISO_639-5.MAP"
+msgstr "Austronesian languages"
+
+msgid "ISO_639-5.MKH"
+msgstr "Mon-Khmer languages"
+
+msgid "ISO_639-5.MNO"
+msgstr "Manobo languages"
+
+msgid "ISO_639-5.MUN"
+msgstr "Munda languages"
+
+msgid "ISO_639-5.MYN"
+msgstr "Mayan languages"
+
+msgid "ISO_639-5.NAH"
+msgstr "Nahuatl languages"
+
+msgid "ISO_639-5.NAI"
+msgstr "North American Indian languages"
+
+msgid "ISO_639-5.NGF"
+msgstr "Trans-New Guinea languages"
+
+msgid "ISO_639-5.NIC"
+msgstr "Niger-Kordofanian languages"
+
+msgid "ISO_639-5.NUB"
+msgstr "Nubian languages"
+
+msgid "ISO_639-5.OMQ"
+msgstr "Oto-Manguean languages"
+
+msgid "ISO_639-5.OMV"
+msgstr "Omotic languages"
+
+msgid "ISO_639-5.OTO"
+msgstr "Otomian languages"
+
+msgid "ISO_639-5.PAA"
+msgstr "Papuan languages"
+
+msgid "ISO_639-5.PHI"
+msgstr "Philippine languages"
+
+msgid "ISO_639-5.PLF"
+msgstr "Central Malayo-Polynesian languages"
+
+msgid "ISO_639-5.POZ"
+msgstr "Malayo-Polynesian languages"
+
+msgid "ISO_639-5.PQE"
+msgstr "Eastern Malayo-Polynesian languages"
+
+msgid "ISO_639-5.PQW"
+msgstr "Western Malayo-Polynesian languages"
+
+msgid "ISO_639-5.PRA"
+msgstr "Prakrit languages"
+
+msgid "ISO_639-5.QWE"
+msgstr "Quechuan (family)"
+
+msgid "ISO_639-5.ROA"
+msgstr "Romance languages"
+
+msgid "ISO_639-5.SAI"
+msgstr "South American Indian languages"
+
+msgid "ISO_639-5.SAL"
+msgstr "Salishan languages"
+
+msgid "ISO_639-5.SDV"
+msgstr "Eastern Sudanic languages"
+
+msgid "ISO_639-5.SEM"
+msgstr "Semitic languages"
+
+msgid "ISO_639-5.SGN"
+msgstr "sign languages"
+
+msgid "ISO_639-5.SIO"
+msgstr "Siouan languages"
+
+msgid "ISO_639-5.SIT"
+msgstr "Sino-Tibetan languages"
+
+msgid "ISO_639-5.SLA"
+msgstr "Slavic languages"
+
+msgid "ISO_639-5.SMI"
+msgstr "Sami languages"
+
+msgid "ISO_639-5.SON"
+msgstr "Songhai languages"
+
+msgid "ISO_639-5.SQJ"
+msgstr "Albanian languages"
+
+msgid "ISO_639-5.SSA"
+msgstr "Nilo-Saharan languages"
+
+msgid "ISO_639-5.SYD"
+msgstr "Samoyedic languages"
+
+msgid "ISO_639-5.TAI"
+msgstr "Tai languages"
+
+msgid "ISO_639-5.TBQ"
+msgstr "Tibeto-Burman languages"
+
+msgid "ISO_639-5.TRK"
+msgstr "Turkic languages"
+
+msgid "ISO_639-5.TUP"
+msgstr "Tupi languages"
+
+msgid "ISO_639-5.TUT"
+msgstr "Altaic languages"
+
+msgid "ISO_639-5.TUW"
+msgstr "Tungus languages"
+
+msgid "ISO_639-5.URJ"
+msgstr "Uralic languages"
+
+msgid "ISO_639-5.WAK"
+msgstr "Wakashan languages"
+
+msgid "ISO_639-5.WEN"
+msgstr "Sorbian languages"
+
+msgid "ISO_639-5.XGN"
+msgstr "Mongolian languages"
+
+msgid "ISO_639-5.XND"
+msgstr "Na-Dene languages"
+
+msgid "ISO_639-5.YPK"
+msgstr "Yupik languages"
+
+msgid "ISO_639-5.ZHX"
+msgstr "Chinese (family)"
+
+msgid "ISO_639-5.ZLE"
+msgstr "East Slavic languages"
+
+msgid "ISO_639-5.ZLS"
+msgstr "South Slavic languages"
+
+msgid "ISO_639-5.ZLW"
+msgstr "West Slavic languages"
+
+msgid "ISO_639-5.ZND"
+msgstr "Zande languages"

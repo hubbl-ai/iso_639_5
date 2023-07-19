@@ -1,0 +1,145 @@
+# Translation of ISO 639-5 (language families and groups) to Polish.
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Jakub Bogusz <qboosh@pld-linux.org>, 2014-2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-5\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2015-07-22 16:30+0200\n"
+"Last-Translator: Jakub Bogusz <qboosh@pld-linux.org>\n"
+"Language-Team: Polish <translation-team-pl@lists.sourceforge.net>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_639-5.AAV"
+msgstr "języki austroazjatyckie"
+
+msgid "ISO_639-5.AFA"
+msgstr "języki afroazjatyckie"
+
+msgid "ISO_639-5.ART"
+msgstr "języki sztuczne"
+
+msgid "ISO_639-5.AUS"
+msgstr "języki australijskie"
+
+msgid "ISO_639-5.BAT"
+msgstr "języki bałtyckie"
+
+msgid "ISO_639-5.CAI"
+msgstr "języki Indian środkowoamerykańskich"
+
+msgid "ISO_639-5.CAU"
+msgstr "języki kaukaskie"
+
+msgid "ISO_639-5.CEL"
+msgstr "języki celtyckie"
+
+msgid "ISO_639-5.CRP"
+msgstr "kreolskie i pidżin"
+
+msgid "ISO_639-5.CSU"
+msgstr "języki środkowosudańskie"
+
+msgid "ISO_639-5.DAY"
+msgstr "języki dajak"
+
+msgid "ISO_639-5.DRA"
+msgstr "języki drawidyjskie"
+
+msgid "ISO_639-5.ESX"
+msgstr "języki eskimo-aleuckie"
+
+msgid "ISO_639-5.EUQ"
+msgstr "baskijskie (rodzina)"
+
+msgid "ISO_639-5.GEM"
+msgstr "języki germańskie"
+
+msgid "ISO_639-5.HMX"
+msgstr "języki hmong-mien"
+
+msgid "ISO_639-5.IIR"
+msgstr "języki indoirańskie"
+
+msgid "ISO_639-5.INE"
+msgstr "języki indoeuropejskie"
+
+msgid "ISO_639-5.IRA"
+msgstr "języki irańskie"
+
+msgid "ISO_639-5.JPX"
+msgstr "japońskie (rodzina)"
+
+msgid "ISO_639-5.KAR"
+msgstr "języki kareńskie"
+
+msgid "ISO_639-5.KHI"
+msgstr "języki khoisan"
+
+msgid "ISO_639-5.MAP"
+msgstr "języki austronezyjskie"
+
+msgid "ISO_639-5.NAI"
+msgstr "języki Indian północnoamerykańskich"
+
+msgid "ISO_639-5.NIC"
+msgstr "języki nigero-kordofańskie"
+
+msgid "ISO_639-5.NUB"
+msgstr "języki nubijskie"
+
+msgid "ISO_639-5.PAA"
+msgstr "języki papuaskie"
+
+msgid "ISO_639-5.PHI"
+msgstr "języki filipiński"
+
+msgid "ISO_639-5.ROA"
+msgstr "języki romańskie"
+
+msgid "ISO_639-5.SAI"
+msgstr "języki Indian południowoamerykańskich"
+
+msgid "ISO_639-5.SDV"
+msgstr "języki wschodniosudańskie"
+
+msgid "ISO_639-5.SGN"
+msgstr "języki migowe"
+
+msgid "ISO_639-5.SIT"
+msgstr "języki sinotybetańskie"
+
+msgid "ISO_639-5.SLA"
+msgstr "języki słowiańskie"
+
+msgid "ISO_639-5.SSA"
+msgstr "języki nilo-saharyjskie"
+
+msgid "ISO_639-5.SYD"
+msgstr "języki samojedzkie"
+
+msgid "ISO_639-5.TAI"
+msgstr "języki tajskie"
+
+msgid "ISO_639-5.TBQ"
+msgstr "języki tybeto-birmańskie"
+
+msgid "ISO_639-5.TRK"
+msgstr "języki turkijskie"
+
+msgid "ISO_639-5.TUT"
+msgstr "języki ałtajskie"
+
+msgid "ISO_639-5.URJ"
+msgstr "języki uralskie"
+
+msgid "ISO_639-5.XGN"
+msgstr "języki mongolskie"

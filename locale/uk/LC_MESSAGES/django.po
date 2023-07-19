@@ -1,0 +1,155 @@
+# Translation of ISO 639-5 (language families and groups) to Ukrainian
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright © 2014 Free Software Foundation, Inc.
+#
+# Yuri Chornoivan <yurchor@ukr.net>, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-5\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2014-04-06 21:31+0300\n"
+"Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
+"Language-Team: Ukrainian <translation-team-uk@lists.sourceforge.net>\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Lokalize 1.5\n"
+
+msgid "ISO_639-5.AAV"
+msgstr "Австралоазійські мови"
+
+msgid "ISO_639-5.AFA"
+msgstr "Афразійські мови"
+
+msgid "ISO_639-5.ART"
+msgstr "Штучні мови"
+
+msgid "ISO_639-5.AUS"
+msgstr "Австралійські мови"
+
+msgid "ISO_639-5.BAT"
+msgstr "Балтійські мови"
+
+msgid "ISO_639-5.CAI"
+msgstr "Центральноамериканські індіанські мови"
+
+msgid "ISO_639-5.CAU"
+msgstr "Кавказькі мови"
+
+msgid "ISO_639-5.CEL"
+msgstr "Кельтські мови"
+
+msgid "ISO_639-5.CMC"
+msgstr "Чамські мови"
+
+msgid "ISO_639-5.CRP"
+msgstr "Креольські мови і піджин"
+
+msgid "ISO_639-5.CSU"
+msgstr "Центральносуданські мови"
+
+msgid "ISO_639-5.DAY"
+msgstr "Мови краю Даяк"
+
+msgid "ISO_639-5.DRA"
+msgstr "Дравідійські мови"
+
+msgid "ISO_639-5.ESX"
+msgstr "Ескімосько-алеутські мови"
+
+msgid "ISO_639-5.EUQ"
+msgstr "Баскська (сім’я)"
+
+msgid "ISO_639-5.GEM"
+msgstr "Германські мови"
+
+msgid "ISO_639-5.HMX"
+msgstr "Мови мяо-яо"
+
+msgid "ISO_639-5.IIR"
+msgstr "Індоіранські мови"
+
+msgid "ISO_639-5.INE"
+msgstr "Індоєвропейські мови"
+
+msgid "ISO_639-5.IRA"
+msgstr "Іранські мови"
+
+msgid "ISO_639-5.JPX"
+msgstr "Японська (сім’я)"
+
+msgid "ISO_639-5.KAR"
+msgstr "Каренські мови"
+
+msgid "ISO_639-5.KHI"
+msgstr "Койсанські мови"
+
+msgid "ISO_639-5.MAP"
+msgstr "Австронезійські мови"
+
+msgid "ISO_639-5.MNO"
+msgstr "Мови манобо"
+
+msgid "ISO_639-5.NAI"
+msgstr "Північноамериканські індіанські мови"
+
+msgid "ISO_639-5.NIC"
+msgstr "Нігер-кордофанські мови"
+
+msgid "ISO_639-5.NUB"
+msgstr "Нубійські мови"
+
+msgid "ISO_639-5.PAA"
+msgstr "Папуаські мови"
+
+msgid "ISO_639-5.PHI"
+msgstr "Філіппінські мови"
+
+msgid "ISO_639-5.ROA"
+msgstr "Романські мови"
+
+msgid "ISO_639-5.SAI"
+msgstr "Південноамериканські індіанські мови"
+
+msgid "ISO_639-5.SDV"
+msgstr "Східносуданські мови"
+
+msgid "ISO_639-5.SGN"
+msgstr "Знакові мови"
+
+msgid "ISO_639-5.SIT"
+msgstr "Сино-тибетські мови"
+
+msgid "ISO_639-5.SLA"
+msgstr "Слов’янські мови"
+
+msgid "ISO_639-5.SSA"
+msgstr "Ніло-сахарські мови"
+
+msgid "ISO_639-5.SYD"
+msgstr "Самодійські мови"
+
+msgid "ISO_639-5.TAI"
+msgstr "Тайські мови"
+
+msgid "ISO_639-5.TBQ"
+msgstr "Тибето-бірманські мови"
+
+msgid "ISO_639-5.TRK"
+msgstr "Тюркські мови"
+
+msgid "ISO_639-5.TUT"
+msgstr "Алтайські мови"
+
+msgid "ISO_639-5.URJ"
+msgstr "Уральські мови"
+
+msgid "ISO_639-5.XGN"
+msgstr "Монгольські мови"
